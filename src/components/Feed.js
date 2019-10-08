@@ -9,9 +9,10 @@ export default class Feed extends Component{
             <FeedItem key={post.id} currentPost={post} colorTheme={this.props.colorTheme}/>
         ));
         return (
-            <div style={{ paddingTop: 100 }}>
+            <div style={{ paddingTop: 100, paddingBottom: 100 }}>
                 <StackGrid
                     columnWidth={320}
+                    duration={0}
                 >
                     {finalList}
                 </StackGrid>
