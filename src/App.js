@@ -25,7 +25,7 @@ class App extends Component{
   }
 
   componentDidMount(){
-    axios.get('https://picsum.photos/v2/list?limit=10')
+    axios.get('https://picsum.photos/v2/list?page=16&limit=10')
          .then(res => this.setState({posts: res.data, currentPosts: res.data}));
   }
 
