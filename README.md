@@ -10,6 +10,6 @@
 This is a website which displays different pictures from Unsplash, made with React and images are loaded from Picsum API. 
 
 ## Features
-⋅⋅1. Displays 10 images from Unsplash
-⋅⋅2. Search bar to search and display images based on author
-⋅⋅3. Light Mode/Dark Mode Functionality
+..1. Displays 10 images from Unsplash
+..2. Search bar to search and display images based on author
+..3. Light Mode/Dark Mode Functionality
