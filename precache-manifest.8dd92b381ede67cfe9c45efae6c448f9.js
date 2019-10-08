@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bea38c0d1fd2b4fcf8d75c9e172222dc",
+    "revision": "eaff428eed5ab09b12a165c1307293ac",
     "url": "/picogram/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/picogram/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "88fc05b5e53de5bfc480",
+    "revision": "c88fa9358d76d8d025b1",
     "url": "/picogram/static/css/main.969eb424.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/picogram/static/js/2.6029c836.chunk.js"
   },
   {
-    "revision": "88fc05b5e53de5bfc480",
-    "url": "/picogram/static/js/main.7e334c90.chunk.js"
+    "revision": "c88fa9358d76d8d025b1",
+    "url": "/picogram/static/js/main.0c3602ce.chunk.js"
   },
   {
     "revision": "49bcad2ffc5d179d9528",
